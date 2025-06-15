@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 
 export default function Header() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [isLoggedIn] = useState(false);
   const userProfilePic = "/profile.png";
 
   return (

@@ -2,7 +2,6 @@
 import LivePlayer from "@/components/LivePlayer";
 import CommentSection from "@/components/CommentSection";
 import LoginPrompt from "@/components/LoginPrompt";
-import MembershipCheck from "@/components/MembershipCheck";
 
 export default function LiveStreamPage() {
   const isAuthenticated = true; // replace with real auth

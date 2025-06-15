@@ -67,9 +67,10 @@ const About = () => {
           />
           <h3 className="text-xl font-semibold mb-3">Curiosidade 🔥</h3>
           <p className="leading-relaxed text-base">
-            O nome "Tu Pra Tu" reflete exatamente o espírito do podcast — uma
-            conversa direta, sem rodeios, como se fosse entre amigos num chill
-            spot. É um reflexo vivo da criatividade e ousadia moçambicana.
+            O nome &quot;Tu Pra Tu&quot; reflete exatamente o espírito do
+            podcast — uma conversa direta, sem rodeios, como se fosse entre
+            amigos num chill spot. É um reflexo vivo da criatividade e ousadia
+            moçambicana.
           </p>
         </div>
       </div>
